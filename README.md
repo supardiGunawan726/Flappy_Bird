@@ -1,2 +1,2 @@
 # Flappy_Bird
-Game pertama saya
+My first game i've created. Made with libGdx on Aide android application app.
